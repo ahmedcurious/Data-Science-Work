@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "Data_Science_Work"
+name = "data_Science_Work"
 version = "0.1.0"
 description = ""
 authors = ["ahmedcurious <ahmed_naseem1@outlook.com>"]

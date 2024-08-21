@@ -25,6 +25,9 @@ jupyter = "^1.0.0"
 word2number = "^1.1"
 fastapi = "^0.112.0"
 uvicorn = "^0.30.5"
+tex = "^1.8"
+nbconvert = "^7.16.4"
+playwright = "^1.46.0"
 
 
 [build-system]

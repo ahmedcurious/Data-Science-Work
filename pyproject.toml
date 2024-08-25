@@ -28,6 +28,8 @@ uvicorn = "^0.30.5"
 tex = "^1.8"
 nbconvert = "^7.16.4"
 playwright = "^1.46.0"
+keyring = "^24.0.1"
+yolov10 = "^0.0.1"
 
 
 [build-system]

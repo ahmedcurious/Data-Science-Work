@@ -30,6 +30,9 @@ playwright = "^1.46.0"
 keyring = "^24.0.1"
 yolov10 = "^0.0.1"
 pandas = "^2.2.2"
+spacy = "^3.7.6"
+nltk = "^3.9.1"
+regex = "^2024.7.24"
 
 
 [build-system]

@@ -33,6 +33,7 @@ pandas = "^2.2.2"
 spacy = "^3.7.6"
 nltk = "^3.9.1"
 regex = "^2024.7.24"
+kaggle = "^1.6.17"
 
 
 [build-system]

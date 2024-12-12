@@ -36,6 +36,7 @@ regex = "^2024.7.24"
 kaggle = "^1.6.17"
 flask = "^3.0.3"
 flask-cors = "^5.0.0"
+python-multipart = "^0.0.19"
 
 
 [build-system]

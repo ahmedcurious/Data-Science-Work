@@ -45,6 +45,9 @@ python-dotenv = "^1.0.1"
 langchain-core = "^0.3.35"
 langchain-google-genai = "^2.0.9"
 langchain-community = "^0.3.17"
+google-auth = "^2.38.0"
+google-generativeai = "^0.8.4"
+tenacity = "^9.0.0"
 
 
 [build-system]
